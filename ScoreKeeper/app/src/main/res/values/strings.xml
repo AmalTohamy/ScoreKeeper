@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="first_player">First Player</string>
+    <string name="second_player">Second Player</string>
+    <string name="new_game">New Game</string>
+    <string name="_0">0</string>
+    <string name="pawn_1">Pawn +1</string>
+    <string name="knight_3">knight +3</string>
+    <string name="bishop_3">Bishop +3</string>
+    <string name="rook_5">Rook +5</string>
+    <string name="queen_9">Queen +9</string>
+    <string name="chess_image">Chess_image</string>
+
+</resources>
